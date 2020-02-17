@@ -1,8 +1,8 @@
 class Dog 
-  def fido 
-  end 
-  def snoopy 
-  end 
-  def lassie 
-  end 
+  def_1 = fido 
+   
+  def_2 = snoopy 
+  
+  def_3 =  lassie 
+  
 end 
