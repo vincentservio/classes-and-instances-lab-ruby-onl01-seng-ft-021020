@@ -1,7 +1,7 @@
 class Dog 
   fido = Dog.new
    
-  def_2 = snoopy 
+  snoopy  = Dog.new
   
   def_3 =  lassie 
   
