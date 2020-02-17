@@ -1,5 +1,5 @@
 class Dog 
-  def_1 = fido 
+  fido = Dog.new
    
   def_2 = snoopy 
   
